@@ -51,3 +51,8 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
 };
 init();
+
+// const arvind = function () {
+//   console.log('Arvind');
+// };
+// arvind();
